@@ -1,16 +1,13 @@
-## Hi there 👋
+# ── // ADRIÁN SANTOS CAMIÑA
 
-<!--
-**AdrixTyLe-coder/AdrixTyLe-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) enfocado en la optimización de código y flujos de trabajo avanzados asistidos por Inteligencia Artificial.
 
-Here are some ideas to get you started:
+### 💻 Stack & Herramientas
+- **Backend:** Java / XML
+- **Bases de Datos:** SQL (MySQL / Oracle)
+- **Frontend:** HTML5 / CSS3 / JavaScript
+- **Metodología:** AI Prompting & Audit (Cursor / Gemini / Copilot)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Laboratorios Destacados
+- [Portfolio Personal](https://adrixtyle-coder.github.io/portfolio/) — Diseño minimalista optimizado para rendimiento y UI móvil.
+- [Simulador Bancario Java](./portfolio/simulador-banca.html) — Módulo lógico OOP con control de excepciones personalizado.
