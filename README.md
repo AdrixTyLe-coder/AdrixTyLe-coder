@@ -9,6 +9,6 @@ Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) enfocado en la op
 - **Metodología:** AI Prompting & Audit (Cursor / Gemini / Refactor)
 
 ### 🚀 Laboratorios Destacados
-- [Portfolio Personal](https://adrixtyle-coder.github.io/Portfolio/) — Diseño minimalista optimizado para rendimiento y UI móvil.
-- [Simulador Bancario (Java)](https://adrixtyle-coder.github.io/Portfolio/simulador-banca.html) — Entorno interactivo OOP con control de excepciones.
-- [Gestor de Base de Datos (SQL)](https://adrixtyle-coder.github.io/Portfolio/gestion-bbdd.html) — Compilación y optimización de consultas relacionales.
+- [Portfolio Personal](https://adrixtyle-coder.github.io/portfolio/#home) — Diseño minimalista optimizado para rendimiento y UI móvil.
+- [Simulador Bancario (Java)](https://adrixtyle-coder.github.io/portfolio/simulador-bancario.html) — Entorno interactivo OOP con control de excepciones.
+- [Gestor de Base de Datos (SQL)](https://adrixtyle-coder.github.io/portfolio/gestion-bbdd.html) — Compilación y optimización de consultas relacionales.
